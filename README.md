@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science Student (7th Semester)**  
+🎓 **B.Tech Computer Science Student (8th Semester)**  
 💻 Passionate about building **scalable backend systems** and **modern web applications**  
 🧠 Strong foundation in **DSA, OOP, DBMS, Software Engineering**  
 🚀 Focused on **real-world projects**, not just tutorials  
