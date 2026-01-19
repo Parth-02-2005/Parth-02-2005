@@ -69,7 +69,7 @@ Android chat application built with **Java + Firebase**
 
 ## 🧠 Problem Solving
 
-- 🧩 **180+ LeetCode problems solved**
+- 🧩 **300+ LeetCode problems solved**
 - Strong in:
   - Arrays & Strings
   - Linked List
